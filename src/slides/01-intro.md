@@ -40,9 +40,22 @@ Wireframe
 ![eureka](./img/eurekacode.png)
 
 ---
-## K9 - Tools Used
+## K9 
 
-Github - Figma - MSEdge - VSC - iTerm
+![github](./img/tools.png)
+> Most Used Tools
+> - Github Desktop
+> - VS Code
+> - iTerm2 (Terminal)
+> - Figma
+> - MS Edge
+
+> Misc.
+> - SnippetsLab
+
+---
+## More
+![kanban](./img/kanban.png)
 
 ---
 
