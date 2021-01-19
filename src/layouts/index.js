@@ -71,7 +71,14 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" style={{'width': '100%'}}>{children}</div>
+            <div
+              id="slide"
+              style={{
+                width: '100%',
+              }}
+            >
+              {children}
+            </div>
           </Transition>
         </Swipeable>
       </div>
