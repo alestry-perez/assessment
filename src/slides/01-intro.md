@@ -54,8 +54,19 @@ Wireframe
 > - SnippetsLab
 
 ---
-## More
+
 ![kanban](./img/kanban.png)
+
+---
+
+![vs code](./img/vsc.png)
+
+
+---
+
+![iterm](./img/iterm.png)
+
+`nc towel.blinkenlights.nl 23`
 
 ---
 
