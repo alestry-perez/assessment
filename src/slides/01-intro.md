@@ -5,6 +5,11 @@ Semester HI Assessment
 ---
 ## K1 - The Web
 
+![web browser](./browserwars.png)
+
+---
+## Inspect Tool
+
 ![web browser](./webbrowser.png)
 
 ---
@@ -21,7 +26,10 @@ Semester HI Assessment
 Github - Figma - MSEdge - VSC - iTerm
 
 ---
+
 ## K10 - Trends
+
+![trends](./trends.png)
 
 ---
 ## S6 - Projects
