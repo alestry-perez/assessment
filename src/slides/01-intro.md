@@ -1,8 +1,30 @@
-# Gatsby Deck
+# Alestry F. Pérez
 
-Create presentations using Gatsby & React.
+Semester HI Assessment
 
 ---
+## K1 - The Web
+
+![web browser](./webbrowser.png)
+
+---
+## K4 - Development Process
+
+![agile](./agile.png)
+
+---
+## K8 - Eureka!
+
+---
+## K9 - Tools Used
+
+Github - Figma - MSEdge - VSC - iTerm
+
+---
+## K10 - Trends
+
+---
+## S6 - Projects
 
 > Inscrutable icons litter the face of the devices even though the research
 > community has long demonstrated that people cannot remember the meaning of
@@ -12,14 +34,6 @@ Create presentations using Gatsby & React.
 
 ---
 
-# 🤫
+# FIN
 
 ---
-
-## Slides are written in Markdown!
-
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
