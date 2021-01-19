@@ -3,22 +3,41 @@
 Semester HI Assessment
 
 ---
-## K1 - The Web
+## K1 
 
-![web browser](./browserwars.png)
+The Web
+
+![web browser](./img/browserwars.png)
 
 ---
+
 ## Inspect Tool
 
-![web browser](./webbrowser.png)
+![web browser](./img/webbrowser.png)
 
 ---
-## K4 - Development Process
 
-![agile](./agile.png)
+## K4
+Development Process
+
+![agile](./img/agile.png)
 
 ---
-## K8 - Eureka!
+Wireframe
+
+![wireframe](./img/Wireframedesign.png)
+
+---
+
+
+![overall view](./img/overall_view.png)
+
+---
+## K8 
+
+## Eureka!
+
+![eureka](./img/eurekacode.png)
 
 ---
 ## K9 - Tools Used
@@ -29,7 +48,7 @@ Github - Figma - MSEdge - VSC - iTerm
 
 ## K10 - Trends
 
-![trends](./trends.png)
+![trends](./img/trends.png)
 
 ---
 ## S6 - Projects
