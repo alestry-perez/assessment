@@ -3,7 +3,7 @@
 Semester HI Assessment
 
 ---
-## K1 
+## K1
 
 The Web
 
@@ -23,7 +23,6 @@ Development Process
 ![agile](./img/agile.png)
 
 ---
-Wireframe
 
 ![wireframe](./img/Wireframedesign.png)
 
@@ -46,12 +45,13 @@ Wireframe
 > Most Used Tools
 > - Github Desktop
 > - VS Code
-> - iTerm2 (Terminal)
+> - iTerm2
 > - Figma
 > - MS Edge
 
 > Misc.
 > - SnippetsLab
+> - Discord
 
 ---
 
@@ -61,21 +61,26 @@ Wireframe
 
 ![vs code](./img/vsc.png)
 
-
 ---
 
 ![iterm](./img/iterm.png)
 
-`nc towel.blinkenlights.nl 23`
+> try me!
+>
+> `nc towel.blinkenlights.nl 23`
 
 ---
 
-## K10 - Trends
+## K10 
+
+Trends
 
 ![trends](./img/trends.png)
 
 ---
-## S6 - Projects
+## S6 
+
+Projects
 
 > Inscrutable icons litter the face of the devices even though the research
 > community has long demonstrated that people cannot remember the meaning of
