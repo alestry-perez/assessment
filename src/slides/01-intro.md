@@ -2,6 +2,8 @@
 
 Semester HI Assessment
 
+![home](./img/home.png)
+
 ---
 ## K1
 
@@ -66,19 +68,25 @@ Javascript
 
 ---
 ### K9 
+Applications, Languages & Digital Tools
 
-> Most Used Tools
-- Github Desktop
-- VS Code
-- iTerm2
-- Figma
-- MS Edge
+Most Used Tools
 
-> Misc.
-- SnippetsLab
-- Discord
+* Github Desktop
+* VS Code
+* iTerm2
+* Figma
+* MS Edge
+
+ Misc.
+* SnippetsLab
+* Discord
 
 ![github](./img/tool.png)
+
+---
+
+![github](./img/githubact.png)
 
 ---
 
@@ -112,7 +120,7 @@ Accessibility
 ---
 ## S6 
 
-Projects
+Communication
 
 ![api template](./img/apitemplate.png)
 
