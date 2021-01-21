@@ -37,14 +37,35 @@ Development Process
 HTML5, CSS3 & Javascript
 
 ---
+
+![html](./img/headhtml.png)
+
+HTML
+
+---
+
+![html](./img/midhtml.png)
+
+---
+
+![html](./img/footerhtml.png)
+
+---
+
+![css](./img/css.png)
+
+CSS
+
+---
 ## Eureka!
+
 
 ![eureka](./img/eurekacode.png)
 
+Javascript
+
 ---
 ### K9 
-
-![github](./img/tools.png)
 
 > Most Used Tools
 - Github Desktop
@@ -56,6 +77,8 @@ HTML5, CSS3 & Javascript
 > Misc.
 - SnippetsLab
 - Discord
+
+![github](./img/tools.png)
 
 ---
 
