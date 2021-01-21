@@ -78,7 +78,7 @@ Javascript
 - SnippetsLab
 - Discord
 
-![github](./img/tools.png)
+![github](./img/tool.png)
 
 ---
 
