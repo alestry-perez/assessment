@@ -84,7 +84,7 @@ Trends
 
 Accessibility
 
-![acessibility](./img/accessibility.png)
+![accessibility](./img/accessibility.png)
 
 ---
 ## S6 
