@@ -32,26 +32,30 @@ Development Process
 ![overall view](./img/overall_view.png)
 
 ---
-## K8 
+# K8
 
+HTML5, CSS3 & Javascript
+
+---
 ## Eureka!
 
 ![eureka](./img/eurekacode.png)
 
 ---
-## K9 
+### K9 
 
 ![github](./img/tools.png)
+
 > Most Used Tools
-> - Github Desktop
-> - VS Code
-> - iTerm2
-> - Figma
-> - MS Edge
+- Github Desktop
+- VS Code
+- iTerm2
+- Figma
+- MS Edge
 
 > Misc.
-> - SnippetsLab
-> - Discord
+- SnippetsLab
+- Discord
 
 ---
 
@@ -65,9 +69,7 @@ Development Process
 
 ![iterm](./img/iterm.png)
 
-> try me!
->
-> `nc towel.blinkenlights.nl 23`
+Try Me; `nc towel.blinkenlights.nl 23`
 
 ---
 
@@ -79,6 +81,8 @@ Trends
 
 ---
 ## K11
+
+Accessibility
 
 ![acessibility](./img/accessibility.png)
 
