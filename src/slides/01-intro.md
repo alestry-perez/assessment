@@ -19,6 +19,12 @@ The Web
 
 ---
 
+## Can I use it?
+
+![web browser](.img/caniuseit.png)
+
+---
+
 ## K4
 Development Process
 
