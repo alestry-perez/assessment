@@ -21,7 +21,7 @@ The Web
 
 ## Can I use it?
 
-![web browser](.img/caniuseit.png)
+![web browser](./img/caniuseit.png)
 
 ---
 
