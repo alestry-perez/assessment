@@ -17,13 +17,17 @@ exports.onCreatePage = ({ page, actions }) => {
       // Add the new page
       createPage(newPage);
     }
-
     resolve();
   });
 };
 
 // Create pages from markdown nodes
-exports.createPages = ({ actions, createContentDigest, createNodeId, graphql }) => {
+exports.createPages = ({
+  actions,
+  createContentDigest,
+  createNodeId,
+  graphql,
+}) => {
   const { createPage, createNode } = actions;
   const slideTemplate = path.resolve(`src/templates/slide.js`);
 
@@ -44,10 +48,15 @@ exports.createPages = ({ actions, createContentDigest, createNodeId, graphql }) 
     }
 
     const slides = result.data.allMarkdownRemark.edges;
-    slides.sort((a, b) => a.node.fileAbsolutePath > b.node.fileAbsolutePath ? 1 : -1)
-    const nodes = slides.flatMap((s) => s.node.html.split('<hr>').map((html) => ({
-      node: s.node, html
-    })));
+    slides.sort((a, b) =>
+      a.node.fileAbsolutePath > b.node.fileAbsolutePath ? 1 : -1
+    );
+    const nodes = slides.flatMap(s =>
+      s.node.html.split('<hr>').map(html => ({
+        node: s.node,
+        html,
+      }))
+    );
 
     nodes.forEach(({ node, html }, index) => {
       createNode({
