@@ -2,42 +2,42 @@
 
 Semester HI Assessment
 
-![home](./img/home.png)
+![home](slides/img/home.png)
 
 ---
 ## K1
 
 The Web
 
-![web browser](./img/browserwars.png)
+![web browser](slides/img/browserwars.png)
 
 ---
 
 ## Inspect Tool
 
-![web browser](./img/webbrowser.png)
+![web browser](slides/img/webbrowser.png)
 
 ---
 
 ## Can I use it?
 
-![web browser](./img/caniuseit.png)
+![web browser](slides/img/caniuseit.png)
 
 ---
 
 ## K4
 Development Process
 
-![agile](./img/agile.png)
+![agile](slides/img/agile.png)
 
 ---
 
-![wireframe](./img/Wireframedesign.png)
+![wireframe](slides/img/Wireframedesign.png)
 
 ---
 
 
-![overall view](./img/overall_view.png)
+![overall view](slides/img/overall_view.png)
 
 ---
 # K8
@@ -46,21 +46,21 @@ HTML5, CSS3 & Javascript
 
 ---
 
-![html](./img/headhtml.png)
+![html](slides/img/headhtml.png)
 
 HTML
 
 ---
 
-![html](./img/midhtml.png)
+![html](slides/img/midhtml.png)
 
 ---
 
-![html](./img/footerhtml.png)
+![html](slides/img/footerhtml.png)
 
 ---
 
-![css](./img/css.png)
+![css](slides/img/css.png)
 
 CSS
 
@@ -68,7 +68,7 @@ CSS
 ## Eureka!
 
 
-![eureka](./img/eurekacode.png)
+![eureka](slides/img/eurekacode.png)
 
 Javascript
 
@@ -88,23 +88,23 @@ Most Used Tools
 * SnippetsLab
 * Discord
 
-![github](./img/tool.png)
+![github](slides/img/tool.png)
 
 ---
 
-![github](./img/githubact.png)
+![github](slides/img/githubact.png)
 
 ---
 
-![kanban](./img/kanban.png)
+![kanban](slides/img/kanban.png)
 
 ---
 
-![vs code](./img/vsc.png)
+![vs code](slides/img/vsc.png)
 
 ---
 
-![iterm](./img/iterm.png)
+![iterm](slides/img/iterm.png)
 
 Try Me; `nc towel.blinkenlights.nl 23`
 
@@ -114,21 +114,21 @@ Try Me; `nc towel.blinkenlights.nl 23`
 
 Trends
 
-![trends](./img/trends.png)
+![trends](slides/img/trends.png)
 
 ---
 ## K11
 
 Accessibility
 
-![accessibility](./img/accessibility.png)
+![accessibility](slides/img/accessibility.png)
 
 ---
 ## S6 
 
 Communication
 
-![api template](./img/apitemplate.png)
+![api template](slides/img/apitemplate.png)
 
 
 ---
