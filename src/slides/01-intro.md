@@ -2,14 +2,14 @@
 
 Semester HI Assessment
 
-![home](..img/home.png)
+![home](img/home.png)
 
 ---
 ## K1
 
 The Web
 
-![web browser](../img/browserwars.png)
+![web browser](./img/browserwars.png)
 
 ---
 
